@@ -4,7 +4,7 @@ const Footer = () => (
   <footer className="bg-slate-950 text-white">
     <div className="mx-auto grid max-w-6xl gap-8 px-4 py-16 sm:grid-cols-2 lg:grid-cols-4">
       <div>
-        <img src="/logo.png" alt="HealthCare24Hr" className="h-16" />
+        <img src="/Screenshot 2025-12-04 at 11.50.25 PM.png" alt="HealthCare24Hr" className="h-16" />
         <p className="mt-4 text-sm text-white/70">
           HealthCare24Hr brings professional caregivers, nurses, and healthcare services to your home with compassion and excellence.
         </p>
@@ -35,7 +35,7 @@ const Footer = () => (
         <ul className="mt-4 space-y-2 text-sm text-white/70">
           <li>+91 080-6904-8802</li>
           <li>support@HealthCare24Hr.co.in</li>
-          <li>Mumbai | Delhi | Bangalore</li>
+          <li>Delhi NCR</li>
         </ul>
       </div>
       <div>

@@ -17,7 +17,7 @@ const Header = () => {
           <div className="flex flex-wrap items-center gap-4">
             <span className="inline-flex items-center gap-2">
               <i className="fas fa-map-marker-alt text-primary" />
-              Mumbai | Delhi | Bangalore
+               Delhi | NCR
             </span>
             <span className="inline-flex items-center gap-2">
               <i className="fas fa-clock text-primary" />
@@ -45,7 +45,7 @@ const Header = () => {
       </div>
       <div className="mx-auto flex max-w-6xl items-center gap-4 px-4 py-4">
         <Link to="/" className="flex items-center gap-3">
-          <img src="/logo.png" alt="HealthCare24Hr logo" className="h-12 w-auto" />
+          <img src="/Screenshot 2025-12-04 at 11.50.25 PM.png" alt="HealthCare24Hr logo" className="h-12 w-auto" />
         </Link>
         <nav className="ml-auto hidden items-center gap-2 md:flex">
           {navLinks.map((link) => (

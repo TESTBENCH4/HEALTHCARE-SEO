@@ -370,4 +370,3 @@ export const blogPosts = [
     date: "Oct 05, 2025",
   },
 ];
-

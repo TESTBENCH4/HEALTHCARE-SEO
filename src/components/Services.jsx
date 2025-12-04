@@ -13,7 +13,7 @@ const servicesData = {
       "Light massage (10-15 mins)"
     ],
     icon: "/assets/images/service/09.svg",
-    image: "/caregiver.png"
+    image: "https://www.zorgers.com/assets1.0/images/pages/elder-care-at-home/1E0A5443-min.webp"
   },
   nurse: {
     title: "Choose our Expert Nurses",
@@ -25,7 +25,7 @@ const servicesData = {
       "Monitoring of vital signs"
     ],
     icon: "/assets/images/service/10.svg",
-    image: "/nurse.png"
+    image: "https://media.istockphoto.com/id/1432771915/photo/female-nurse-giving-medication-to-old-man.jpg?s=612x612&w=0&k=20&c=KI4L19pLJeBSAA4Y8sow1lWRUkcENzybAKaOBpHn78o="
   },
   physiotherapy: {
     title: "Book our Experienced Physiotherapists",
@@ -37,7 +37,7 @@ const servicesData = {
       "Speedy recovery after surgery"
     ],
     icon: "/assets/images/service/14.svg",
-    image: "/physiotherapy.png"
+    image: "https://blog.healtether.com/wp-content/uploads/al_opt_content/IMAGE/blog.healtether.com/wp-content/uploads/2024/12/physiotherapy-center-in-india.jpg.bv_resized_ipad.jpg.bv.webp?bv_host=blog.healtether.com"
   },
   babyCare: {
     title: "Experienced Baby Sitter and Nanny",
@@ -49,7 +49,7 @@ const servicesData = {
       "Organizing bedrooms/toys"
     ],
     icon: "/assets/images/service/12.svg",
-    image: "/babycare.png"
+    image: "https://hilfenursingservices.com/wp-content/uploads/2023/10/2-1024x1024.png"
   }
 };
 

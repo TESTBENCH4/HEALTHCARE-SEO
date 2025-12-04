@@ -28,7 +28,7 @@ const About = () => (
         </ul>
         <div className="flex flex-wrap gap-6">
           <div>
-            <p className="text-4xl font-semibold text-secondary">2000+</p>
+            <p className="text-4xl font-semibold text-secondary">100+</p>
             <p className="text-sm text-slate-500">verified caregivers</p>
           </div>
           <div>
@@ -53,13 +53,13 @@ const About = () => (
       </div>
       <div className="relative">
         <img
-          src="/nurses.png"
+          src="https://img.freepik.com/premium-photo/confident-indian-nurses-with-stethoscopes-hospital_822916-8655.jpg?w=360"
           alt="Care team"
           className="w-full rounded-[32px] object-cover shadow-2xl"
         />
         <div className="absolute -bottom-8 left-6 rounded-3xl bg-white p-6 shadow-xl">
           <p className="text-sm uppercase tracking-widest text-primary">Trusted</p>
-          <p className="text-2xl font-semibold text-secondary">50K+ Happy Families</p>
+          <p className="text-2xl font-semibold text-secondary">Happy Families</p>
         </div>
       </div>
     </div>
