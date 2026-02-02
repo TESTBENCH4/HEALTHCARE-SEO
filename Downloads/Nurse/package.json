@@ -1,0 +1,21 @@
+{
+  "name": "nurse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "dev:css": "npx @tailwindcss/cli -i ./public/assets/css/input.css -o ./public/assets/css/style.css --watch",
+     "dev": "next dev",
+     "build": "next build",
+     "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "serve": "^14.2.5",
+    "tailwindcss": "^4.1.18"
+  }
+}
